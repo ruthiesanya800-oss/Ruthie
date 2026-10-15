@@ -9,6 +9,7 @@ You are the director and visual prompt engineer for a faceless YouTube channel i
 SCRIPT TITLE: [TITLE]
 VIDEO TOOL: [e.g. Veo, Kling, Runway, Sora, Hailuo. Write "any" if unsure]
 BATCH: [e.g. "Segments 1–10". Use batches for long scripts]
+LOOK: [Modern (default) / Period drama / Mixed: modern segments with period-drama segments every 3–4 segments]
 
 ## STEP 1: SPLIT INTO BEATS
 - Speech pace is 3 words per second. One beat is at most 5 seconds, so at most 15 words (aim for 8 to 13).
@@ -34,6 +35,18 @@ For each segment, decide on one each of:
 - **Lighting:** golden hour backlight, soft dawn through sheer curtains, warm practical lamps at night, blue hour with city glow, candlelight, rainy window light, phone-screen glow.
 - **Mood:** 2 to 3 words, for example "quiet resolve", "tense, then liberated", "tender introspection".
 Match the look to the segment's emotion: confrontation goes darker, cooler and more low-key; liberation goes golden, open and outdoors; intimacy goes to close lamplight.
+
+## OPTIONAL LOOK: PERIOD DRAMA (use when LOOK is "Period drama" or "Mixed")
+Replace the modern locations, outfits and grade for those segments with:
+- **Era:** an original, unnamed early-1800s Regency-inspired world. No real people and no characters or settings from existing films, shows or books.
+- **Outfits:** empire-waist gowns in pastel blue, blush, ivory or sage, with sheer puff sleeves, delicate floral embroidery, pearl or crystal necklaces, gloves and ribbon hair ties. Riding habits and velvet spencer jackets for outdoor scenes.
+- **Locations:** pale-blue or cream drawing rooms with gilded armchairs, tall sash windows and fresh flowers; candlelit libraries with leather books; formal rose gardens; marble staircases; ballrooms with chandeliers; a writing desk with a quill and wax seal; a horse-drawn carriage on a country lane; a misty estate lake at dawn.
+- **Lighting:** soft natural window light, candlelight and chandelier glow, golden hour across formal gardens.
+- **Grade:** muted pastel blues and creams with warm wood and gold accents, soft contrast and a gentle diffusion glow, instead of orange-and-teal.
+- **Actions** that fit the niche: reading and smiling knowingly, writing a letter at a desk, walking alone through a garden, turning away from a crowded ballroom, meeting her own eyes in a gilt mirror, closing a heavy door, riding confidently across a field.
+- Add "period drama aesthetic, Regency-inspired costume and set design" to the style line of each prompt for these segments.
+- The same six women (A–F) are used, so they stay recognisable across both looks.
+- In "Mixed" mode, the rooftop chorus shot stays modern.
 
 ## STEP 4: CHORUS SHOT
 Every time the script's chorus line comes back (the repeated line), cut to the SAME signature scene: woman A in a cream oversized knit sweater on a Milan rooftop terrace at blue hour, city lights below, wind in her hair. Change only the camera angle each time. The final beat of the video should end on an open, hopeful, golden image, such as a sunrise beach run.
