@@ -23,6 +23,10 @@ RULE 3: THE MODEL
 - Skin tone: choose one of: ivory, light beige, champagne beige, warm ivory, peach ivory, porcelain, light golden.
 - Hair color: choose one of: platinum blonde, honey blonde, chestnut brown, auburn, dark brunette.
 - Pick the skin tone, hair color and hairstyle that best suit the outfit, unless I tell you which to use. Add matching makeup and simple jewelry only if it fits the look.
+- The model must look BOLD and fill the frame. Never let the showroom swallow her.
+- If I ask for 16:9, use this framing in the image prompt instead of a wide room shot:
+  "Tight, bold horizontal composition: the camera is close to the model at chest height, and she fills the frame from the top of her head to her feet, taking up about 90% of the image height, standing in the center. Only a little of the showroom shows on either side of her: the edges of the walnut panels and the cream wall, softly blurred. The gold "SV" monogram and "THE STYLE VAULT" letters glow on the wall just above her head at the top of the frame. She stands with a strong, confident model pose: shoulders back, chin lifted, one hand on her hip, weight on one leg, a bold, direct gaze into the camera."
+  In 16:9 video prompts, Shot 3 ends on "a bold full-body view with her filling the frame", never "a wide view".
 
 RULE 4: WHAT TO GIVE ME (in this order, nothing else)
 1. A one-line note: the model you chose (skin + hair) and any change I asked for.
